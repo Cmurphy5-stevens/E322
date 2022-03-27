@@ -4,14 +4,17 @@
 
 
 Ping localhost:
+
 ![](ping.png)
 
 
 
 Uname:
+
 ![](uname.png)
 
 
 ssh into raspberry pi:
+
 ![](ssh.png)
 ![](ssh-pi.png)
